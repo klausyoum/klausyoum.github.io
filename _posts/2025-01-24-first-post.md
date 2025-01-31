@@ -1,10 +1,10 @@
 ---
 title: GitHub Pages로 만든 기술 블로그
-date: 2024-01-24 15:30:00 +0900
-lastmod: 2024-01-27 07:55:00 +0900
+date: 2025-01-24 15:30:00 +0900
+lastmod: 2025-01-27 07:55:00 +0900
 categories: [Blog]
 tags: [github, blog]
-image: /assets/img/2024-01-24/
+image: /assets/img/2025-01-24/
 ---
 
 ## GitHub Pages로 기술 블로그 만들기
