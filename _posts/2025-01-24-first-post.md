@@ -1,10 +1,10 @@
 ---
 title: GitHub Pages로 만든 기술 블로그
 date: 2025-01-24 15:30:00 +0900
-lastmod: 2025-01-27 07:55:00 +0900
+lastmod: 2025-01-31 23:55:00 +0900
 categories: [Blog]
 tags: [github, blog]
-image: /assets/img/2025-01-24/
+img_path: /assets/img/2025-01-24/
 ---
 
 ## GitHub Pages로 기술 블로그 만들기
@@ -93,6 +93,8 @@ image: /assets/img/2025-01-24/
 
 그럼, 앞으로 매번 로컬 PC에서 블로그 글을 작성하고, GitHub에 push를 해야하는가를 고민했어요. 하지만, 그것은 언제 어디서든지 글을 쓸 수 없는 큰 제약이 생기기 때문에, 브라우저 상에서 작성하는 방법을 찾아봤어요! GitHub repository 주소를 `github.com` -> `github.dev`로 변경하면, 브라우저 상에 VS Code가 실행되면서, 로컬과 동일한 환경이 되는데요. 바로 이것을 이용하면, 언제 어디서든 글을 작성할 수 있게 됩니다. 😊 예를 들면,  
 https://github.dev/klausyoum/klausyoum.github.io 주소와 같이 입력하면,
+
+![브라우저 상의 VS Code](/assets/img/2025-01-24/github-vs-code.png)
 
 ![브라우저 상의 VS Code](github-vs-code.png)
 
