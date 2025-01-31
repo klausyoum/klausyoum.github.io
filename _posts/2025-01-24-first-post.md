@@ -88,9 +88,9 @@ tags: [github, blog]
 > 
 > Chirpy 템플릿은 기술 블로그를 위한 훌륭한 선택입니다. 코드 블록 강조 기능이 뛰어나고, 다양한 기능과 커스터마이징 옵션을 제공하여 개발자들이 자신만의 개성을 담은 기술 블로그를 구축할 수 있습니다. 하지만, 모든 사용자에게 완벽한 템플릿은 없습니다. 각 템플릿마다 장단점이 있으므로, 자신의 요구 사항과 선호도에 맞는 템플릿을 선택하는 것이 중요합니다.
 
-다음에는 [Chirpy 템플릿의 Getting Started](https://chirpy.cotes.page/posts/getting-started/)를 참고하여, 개인 repository를 생성하였습니다. 그리고 로컬 PC에서 초기 설정(_config.yml 설정, Avata 이미지 설정, Favicon 이미지 변경 등)하였고, 로컬 서버를 띄우면서 블로그가 정상적으로 표시되는 것을 확인하였습니다.
+다음에는 [Chirpy 템플릿의 Getting Started](https://chirpy.cotes.page/posts/getting-started/)를 참고하여, 개인 repository를 생성하였습니다. 그리고 로컬 PC에서 초기 설정(_config.yml 설정, Avata 이미지 설정, Favicon 이미지 변경 등)하였고, 로컬 서버를 띄우면서 블로그가 정상적으로 표시되는 것을 확인하였습니다. 그리고, GitHub에 변경 내용을 모두 push한 다음에, GitHub Pages 사이트에서도 포스트 글이 잘 보이는 것을 확인했습니다.
 
-앞으로 매번 로컬 PC에서 블로그 글을 작성하고, GitHub에 push를 하는 작업을 해야 하는가를 고민했어요. 하지만, 이것은 일반 블로그 대비, 언제 어디서든지 글을 쓸 수 없는 큰 제약이 생기기 때문에, 브라우저 상에서 작성하는 방법을 찾아봤어요! GitHub repository 주소를 `github.com` -> `github.dev`로 변경하면, 브라우저 상에 VS Code Web Editor가 실행되면서, 로컬과 동일한 환경이 되는데요. 바로 이것을 이용하면, 언제 어디서든 글을 작성할 수 있게 됩니다. 😊 예를 들면, https://github.dev/klausyoum/klausyoum.github.io 주소와 같이 입력하면, 아래와 캡쳐와 같이 블로그 글을 작성할수 있습니다. 확실히 예전보다는 개발 환경이 웹으로 많이 옮겨간 것을 느낄 수 있었네요.
+그런데, 앞으로 매번 로컬 PC에서 블로그 글을 작성하고, GitHub에 push를 하는 작업을 해야 하는가를 고민했어요. 하지만, 이것은 일반 블로그 대비, 언제 어디서든지 글을 쓸 수 없는 큰 제약이 생기기 때문에, 브라우저 상에서 작성하는 방법을 찾아봤어요! GitHub repository 주소를 `github.com` -> `github.dev`로 변경하면, 브라우저 상에 VS Code Web Editor가 실행되면서, 로컬과 동일한 환경이 되는데요. 바로 이것을 이용하면, 언제 어디서든 글을 작성할 수 있게 됩니다. 😊 예를 들면, https://github.dev/klausyoum/klausyoum.github.io 주소와 같이 입력하면, 아래와 캡쳐와 같이 블로그 글을 작성할수 있습니다. 확실히 예전보다는 개발 환경이 웹으로 많이 옮겨간 것을 느낄 수 있었네요.
 
 ![브라우저 상의 VS Code](/assets/img/posts/2025-01-24/github-vs-code.png)
 
