@@ -88,16 +88,17 @@ tags: [github, blog]
 > 
 > Chirpy 템플릿은 기술 블로그를 위한 훌륭한 선택입니다. 코드 블록 강조 기능이 뛰어나고, 다양한 기능과 커스터마이징 옵션을 제공하여 개발자들이 자신만의 개성을 담은 기술 블로그를 구축할 수 있습니다. 하지만, 모든 사용자에게 완벽한 템플릿은 없습니다. 각 템플릿마다 장단점이 있으므로, 자신의 요구 사항과 선호도에 맞는 템플릿을 선택하는 것이 중요합니다.
 
-다음에는 (Chirpy 템플릿의 Getting Started)[https://chirpy.cotes.page/posts/getting-started/]를 참고하여, 개인 repository를 생성하였습니다. 그리고 로컬 PC에서 초기 설정(_config.yml 설정, Avata 이미지 설정, Favicon 이미지 변경 등)하였고, 로컬 서버를 띄우면서 블로그가 정상적으로 표시되는 것을 확인하였습니다.
+다음에는 [Chirpy 템플릿의 Getting Started](https://chirpy.cotes.page/posts/getting-started/)를 참고하여, 개인 repository를 생성하였습니다. 그리고 로컬 PC에서 초기 설정(_config.yml 설정, Avata 이미지 설정, Favicon 이미지 변경 등)하였고, 로컬 서버를 띄우면서 블로그가 정상적으로 표시되는 것을 확인하였습니다.
+
 
 ## 앞으로 어떤 내용의 글들을 작성할 건가요?
 
 ## References
-* https://www.inflearn.com/course/3%EB%B6%84%EB%A7%8C%EC%97%90-%EB%A7%8C%EB%93%9C%EB%8A%94-%EA%B9%83%ED%97%99%EB%B8%94%EB%A1%9C%EA%B7%B8
-* https://www.youtube.com/watch?v=ACzFIAOsfpM
-* https://docs.github.com/ko/pages/quickstart
+* [3분만에 만드는 깃헙 블로그](https://www.inflearn.com/course/3%EB%B6%84%EB%A7%8C%EC%97%90-%EB%A7%8C%EB%93%9C%EB%8A%94-%EA%B9%83%ED%97%99%EB%B8%94%EB%A1%9C%EA%B7%B8)
+* [깃헙(GitHub) 블로그 10분안에 완성하기](https://www.youtube.com/watch?v=ACzFIAOsfpM)
+* [GitHub Pages 빠른 시작](https://docs.github.com/ko/pages/quickstart)
 
 ### 참고한 기술 블로그들
-* https://tired-o.github.io/
-* https://wonderer80.github.io/
-* https://inbird81.github.io/posts/using-image/
+* [https://tired-o.github.io/](https://tired-o.github.io/)
+* [https://wonderer80.github.io/](https://wonderer80.github.io/)
+* [https://inbird81.github.io/posts/using-image/](https://inbird81.github.io/posts/using-image/)
